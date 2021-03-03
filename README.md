@@ -1,25 +1,84 @@
-# VSCode Terraform Extension Pack
+# Terraform IaC Extension Pack
 
-This pack includes Terraform helpful extensions for working as a DevOps engineer.
+[![Version](https://vsmarketplacebadge.apphb.com/version/mhmdio.terraform-extension-pack.svg)](https://vsmarketplacebadge.apphb.com/version-short/mhmdio.terraform-extension-pack.svg)
+[![Install](https://vsmarketplacebadge.apphb.com/installs/mhmdio.terraform-extension-pack.svg)](https://vsmarketplacebadge.apphb.com/installs-short/mhmdio.terraform-extension-pack.svg)
+[![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/mhmdio.terraform-extension-pack.svg)](https://vsmarketplacebadge.apphb.com/rating-short/mhmdio.terraform-extension-pack.svg)
 
-## Development - Welcome to your VS Code Extension Pack
+This pack includes [Terraform](https://www.terraform.io/) helpful extensions for working as a DevOps engineer.
 
-### What's in the folder
+## List of Extensions
 
-* This folder contains all of the files necessary for your extension pack.
-* `package.json` - this is the manifest file that defines the list of extensions of the extension pack.
+- <https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments>
+- <https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks>
+- <https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager>
+- <https://marketplace.visualstudio.com/items?itemName=bin3377.iam-policy>
+- <https://marketplace.visualstudio.com/items?itemName=Bridgecrew.checkov>
+- <https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore>
+- <https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2>
+- <https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree>
+- <https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform>
+- <https://marketplace.visualstudio.com/items?itemName=mgtrrz.terraform-completer>
+- <https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow>
+- <https://marketplace.visualstudio.com/items?itemName=mhmdio.terraform-extension-pack>
+- <https://marketplace.visualstudio.com/items?itemName=ShiftLeftSecurity.shiftleft-scan>
+- <https://marketplace.visualstudio.com/items?itemName=SteefH.terraform-documentation-links>
 
-### Get up and running straight away
+## Screenshots
 
-* Press `F5` to open a new window with your extension loaded.
-* Open `Extensions Viewlet` and check your extensions are installed.
+### better-comments
 
-### Make changes
+![better-comments](images/better-comments.png)
 
-* You can relaunch the extension from the debug toolbar after making changes to the files listed above.
-* You can also reload (`Ctrl+R` or `Cmd+R` on Mac) the VS Code window with your extension to load your changes.
+### bookmarks
 
-### Install your extension
+![bookmarks](images/bookmarks.png)
 
-* To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
-* To share your extension with the world, read on https://code.visualstudio.com/docs about publishing an extension.
+### bracket-pair-colorizer-2
+
+![bracket-pair-colorizer-2](images/bracket-pair-colorizer-2.png)
+
+### checkov
+
+![checkov](images/checkov.png)
+
+![checkov](images/checkov2.png)
+
+### gitignore
+
+![gitignore](images/gitignore.gif)
+
+### iam-policy
+
+![iam-policy](images/iam-policy.png)
+
+### indent-rainbow
+
+![indent-rainbow](images/indent-rainbow.png)
+
+### project-manager
+
+![project-manager](images/project-manager.png)
+
+### terraform-completer
+
+![terraform-completer](images/terraform-completer.png)
+
+### terraform-doc-snippets
+
+![terraform-doc-snippets](images/terraform-doc-snippets.gif)
+
+### terraform-documentation-links
+
+![terraform-documentation-links](images/terraform-documentation-links.png)
+
+### terraform
+
+![terraform](images/terraform.png)
+
+### todo-tree
+
+![todo-tree](images/todo-tree.png)
+
+### shiftleft-scan
+
+N/A
