@@ -1,0 +1,7 @@
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+< to be filled with jobs>

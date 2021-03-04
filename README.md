@@ -8,76 +8,75 @@ This pack includes [Terraform](https://www.terraform.io/) helpful extensions for
 
 ## List of Extensions
 
-- <https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments>
-- <https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks>
-- <https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager>
-- <https://marketplace.visualstudio.com/items?itemName=bin3377.iam-policy>
-- <https://marketplace.visualstudio.com/items?itemName=Bridgecrew.checkov>
-- <https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore>
-- <https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2>
-- <https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree>
-- <https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform>
-- <https://marketplace.visualstudio.com/items?itemName=mgtrrz.terraform-completer>
-- <https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow>
-- <https://marketplace.visualstudio.com/items?itemName=mhmdio.terraform-extension-pack>
-- <https://marketplace.visualstudio.com/items?itemName=ShiftLeftSecurity.shiftleft-scan>
-- <https://marketplace.visualstudio.com/items?itemName=SteefH.terraform-documentation-links>
+- [better-comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+- [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
+- [project-manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
+- [iam-policy](https://marketplace.visualstudio.com/items?itemName=bin3377.iam-policy)
+- [checkov](https://marketplace.visualstudio.com/items?itemName=Bridgecrew.checkov)
+- [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
+- [bracket-pair-colorizer-2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+- [todo-tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+- [terraform](https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform)
+- [terraform-completer](https://marketplace.visualstudio.com/items?itemName=mgtrrz.terraform-completer)
+- [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+- [shiftleft-scan](https://marketplace.visualstudio.com/items?itemName=ShiftLeftSecurity.shiftleft-scan)
+- [terraform-documentation-links](https://marketplace.visualstudio.com/items?itemName=SteefH.terraform-documentation-links)
 
 ## Screenshots
 
 ### better-comments
 
-![better-comments](images/better-comments.png)
+![better-comments](https://raw.githubusercontent.com/mhmdio/vscode-terraform-extension-pack/main/images/better-comments.png)
 
 ### bookmarks
 
-![bookmarks](images/bookmarks.png)
+![bookmarks](https://raw.githubusercontent.com/mhmdio/vscode-terraform-extension-pack/main/images/bookmarks.png)
 
 ### bracket-pair-colorizer-2
 
-![bracket-pair-colorizer-2](images/bracket-pair-colorizer-2.png)
+![bracket-pair-colorizer-2](https://raw.githubusercontent.com/mhmdio/vscode-terraform-extension-pack/main/images/bracket-pair-colorizer-2.png)
 
 ### checkov
 
-![checkov](images/checkov.png)
+![checkov](https://raw.githubusercontent.com/mhmdio/vscode-terraform-extension-pack/main/images/checkov.png)
 
-![checkov](images/checkov2.png)
+![checkov](https://raw.githubusercontent.com/mhmdio/vscode-terraform-extension-pack/main/images/checkov2.png)
 
 ### gitignore
 
-![gitignore](images/gitignore.gif)
+![gitignore](https://raw.githubusercontent.com/mhmdio/vscode-terraform-extension-pack/main/images/gitignore.gif)
 
 ### iam-policy
 
-![iam-policy](images/iam-policy.png)
+![iam-policy](https://raw.githubusercontent.com/mhmdio/vscode-terraform-extension-pack/main/images/iam-policy.png)
 
 ### indent-rainbow
 
-![indent-rainbow](images/indent-rainbow.png)
+![indent-rainbow](https://raw.githubusercontent.com/mhmdio/vscode-terraform-extension-pack/main/images/indent-rainbow.png)
 
 ### project-manager
 
-![project-manager](images/project-manager.png)
+![project-manager](https://raw.githubusercontent.com/mhmdio/vscode-terraform-extension-pack/main/images/project-manager.png)
 
 ### terraform-completer
 
-![terraform-completer](images/terraform-completer.png)
+![terraform-completer](https://raw.githubusercontent.com/mhmdio/vscode-terraform-extension-pack/main/images/terraform-completer.png)
 
 ### terraform-doc-snippets
 
-![terraform-doc-snippets](images/terraform-doc-snippets.gif)
+![terraform-doc-snippets](https://raw.githubusercontent.com/mhmdio/vscode-terraform-extension-pack/main/images/terraform-doc-snippets.gif)
 
 ### terraform-documentation-links
 
-![terraform-documentation-links](images/terraform-documentation-links.png)
+![terraform-documentation-links](https://raw.githubusercontent.com/mhmdio/vscode-terraform-extension-pack/main/images/terraform-documentation-links.png)
 
 ### terraform
 
-![terraform](images/terraform.png)
+![terraform](https://raw.githubusercontent.com/mhmdio/vscode-terraform-extension-pack/main/images/terraform.png)
 
 ### todo-tree
 
-![todo-tree](images/todo-tree.png)
+![todo-tree](https://raw.githubusercontent.com/mhmdio/vscode-terraform-extension-pack/main/images/todo-tree.png)
 
 ### shiftleft-scan
 

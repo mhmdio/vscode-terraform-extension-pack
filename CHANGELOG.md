@@ -6,6 +6,11 @@
 
 All notable changes to the "terraform-extension-pack" extension pack will be documented in this file.
 
+## 0.1.1 - 04/03/2021
+
+- update documentation
+- update changelog
+
 ## 0.1.0 - 03/03/2021
 
 - clean un-needed extensions

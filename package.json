@@ -3,7 +3,7 @@
     "displayName": "Terraform IaC Extension Pack",
     "description": "Awesome Terraform Extensions",
     "publisher": "mhmdio",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "icon": "images/icon.png",
     "author": {
         "name": "Mohammed Y Almusaddar"
