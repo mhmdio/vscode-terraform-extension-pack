@@ -3,7 +3,7 @@
     "displayName": "Terraform IaC Extension Pack",
     "description": "Awesome Terraform Extensions",
     "publisher": "mhmdio",
-    "version": "0.1.1",
+    "version": "0.2.1",
     "icon": "images/icon.png",
     "author": {
         "name": "Mohammed Y Almusaddar"
@@ -13,7 +13,7 @@
         "url": "https://github.com/mhmdio/vscode-terraform-extension-pack.git"
     },
     "engines": {
-        "vscode": "^1.53.0"
+        "vscode": "^1.50.0"
     },
     "categories": [
         "Extension Packs"
@@ -32,6 +32,8 @@
         "oderwat.indent-rainbow",
         "run-at-scale.terraform-doc-snippets",
         "ShiftLeftSecurity.shiftleft-scan",
-        "SteefH.terraform-documentation-links"
+        "SteefH.terraform-documentation-links",
+        "tfsec.tfsec",
+        "hediet.vscode-drawio"
     ]
 }

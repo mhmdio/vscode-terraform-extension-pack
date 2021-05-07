@@ -20,6 +20,8 @@ This pack includes [Terraform](https://www.terraform.io/) helpful extensions for
 - [terraform-completer](https://marketplace.visualstudio.com/items?itemName=mgtrrz.terraform-completer)
 - [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 - [shiftleft-scan](https://marketplace.visualstudio.com/items?itemName=ShiftLeftSecurity.shiftleft-scan)
+- [tfsec](https://marketplace.visualstudio.com/items?itemName=tfsec.tfsec)
+- [vscode-drawio](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
 - [terraform-documentation-links](https://marketplace.visualstudio.com/items?itemName=SteefH.terraform-documentation-links)
 
 ## Screenshots
@@ -81,3 +83,11 @@ This pack includes [Terraform](https://www.terraform.io/) helpful extensions for
 ### shiftleft-scan
 
 N/A
+
+### tfsec
+
+![tfsec](https://raw.githubusercontent.com/mhmdio/vscode-terraform-extension-pack/main/images/tfsec.png)
+
+### vscode-drawio
+
+![vscode-drawio](https://raw.githubusercontent.com/mhmdio/vscode-terraform-extension-pack/main/images/drawio.png)

@@ -6,6 +6,16 @@
 
 All notable changes to the "terraform-extension-pack" extension pack will be documented in this file.
 
+## 0.2.1 - 08/05/2021
+
+- add tfsec image
+- add drawio image
+
+## 0.2.0 - 08/05/2021
+
+- add tfsec
+- add drawio
+
 ## 0.1.1 - 04/03/2021
 
 - update documentation

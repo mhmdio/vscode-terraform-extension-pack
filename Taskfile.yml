@@ -1,0 +1,15 @@
+version: '3'
+
+tasks:
+
+  login:
+    cmds:
+      - vsce login mhmdio
+
+  package:
+    cmds:
+      - vsce package
+
+  publish:
+    cmds:
+      - vsce publish
