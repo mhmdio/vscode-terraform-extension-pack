@@ -6,6 +6,14 @@
 
 All notable changes to the "terraform-extension-pack" extension pack will be documented in this file.
 
+## 0.3.0 - 01/09/2022
+
+- add Infracost
+- add Trunk
+- update README.md
+- remove gifs, images due to size
+- remove extra extensions
+
 ## 0.2.1 - 08/05/2021
 
 - add tfsec image

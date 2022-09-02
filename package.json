@@ -3,7 +3,7 @@
     "displayName": "Terraform IaC Extension Pack",
     "description": "Awesome Terraform Extensions",
     "publisher": "mhmdio",
-    "version": "0.2.1",
+    "version": "0.3.0",
     "icon": "images/icon.png",
     "author": {
         "name": "Mohammed Y Almusaddar"
@@ -19,21 +19,14 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "aaron-bond.better-comments",
-        "alefragnani.Bookmarks",
         "alefragnani.project-manager",
-        "bin3377.iam-policy",
-        "Bridgecrew.checkov",
         "codezombiech.gitignore",
-        "CoenraadS.bracket-pair-colorizer-2",
         "Gruntfuggly.todo-tree",
         "hashicorp.terraform",
-        "mgtrrz.terraform-completer",
-        "oderwat.indent-rainbow",
-        "run-at-scale.terraform-doc-snippets",
-        "ShiftLeftSecurity.shiftleft-scan",
-        "SteefH.terraform-documentation-links",
+        "Infracost.infracost",
         "tfsec.tfsec",
-        "hediet.vscode-drawio"
+        "Trunk.io",
+        "hediet.vscode-drawio",
+        "vsls-contrib.gistfs"
     ]
 }
